@@ -56,6 +56,8 @@ button{
 img{
 	height: 15.625rem;
 	width: 25rem;
+	margin: 0.5rem 0.5rem;
+	border-radius: 0.25rem;
 }
 
 .photos{
@@ -63,9 +65,4 @@ img{
 	flex-wrap: wrap;
 	display: flex;
 	justify-content: center;
-}
-
-img{
-	margin: 0.5rem 0.5rem;
-	border-radius: 0.25rem;
 }
