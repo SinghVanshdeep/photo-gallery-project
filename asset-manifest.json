@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/SinghVanshdeep.github.io/photo-gallery-project/static/js/main.1d96bb37.js",
-    "index.html": "/SinghVanshdeep.github.io/photo-gallery-project/index.html",
-    "main.1d96bb37.js.map": "/SinghVanshdeep.github.io/photo-gallery-project/static/js/main.1d96bb37.js.map"
+    "main.js": "/photo-gallery-project/static/js/main.1d96bb37.js",
+    "index.html": "/photo-gallery-project/index.html",
+    "main.1d96bb37.js.map": "/photo-gallery-project/static/js/main.1d96bb37.js.map"
   },
   "entrypoints": [
     "static/js/main.1d96bb37.js"
